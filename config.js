@@ -1,7 +1,7 @@
 // config.js — Constantes y conexión con la API.
 const CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycbwYDZwzT1lhx4hzE0dstVxkYkykAZ7BeWIVZThwKzn0ynLxIFE7dBD7rJMqUKnM9kYq2g/exec',   // <-- tu URL que termina en /exec
-  TOKEN:   'Isabella06',        // <-- el mismo token de la Etapa 3
+  API_URL: 'https://script.google.com/macros/s/AKfycbzImPfXe4hDB-YlnObpgR9mm_hnrWUgs1YB7voR1aI5L_gvLH9YQ2DVmtHKs2P7h_cAkQ/exec',
+  TOKEN:   'presu2026-8f3k1',
   MONEDA:  'MXN',
   LOCALE:  'es-MX',
 };
